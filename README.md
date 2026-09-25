@@ -34,12 +34,7 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/ikkagaming6">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
-</p>
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
 </p>
