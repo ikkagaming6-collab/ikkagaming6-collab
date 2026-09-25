@@ -36,17 +36,16 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/ikkagaming6">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ikkagaming6&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="ikkagaming6's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=ikkagaming6&theme=radical&hide_border=true&cache_seconds=86400" alt="ikkagaming6's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ikkagaming6&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ishara Amith's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
-
 
 ## 🛠️ Languages & Tools
 
@@ -66,17 +65,20 @@
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /></p>
 
 > ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/ikkagaming6">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ikkagaming6&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=ikkagaming6)
+![Top language](https://stats.pphat.top/languages?username=YOUR_USERNAME)
 <br/>
-
 ## 🔗 Connect with Me
 <p align="center"> <a href="https://wa.me/766068789" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:ikkagaming6@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
