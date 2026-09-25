@@ -33,14 +33,6 @@
 - Software Lifecycle
 
 
-## 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 
 ## 🛠️ Languages & Tools
 
@@ -66,13 +58,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=YOUR_USERNAME)
 <br/>
 ## 🔗 Connect with Me
 <p align="center"> <a href="https://wa.me/766068789" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:ikkagaming6@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
